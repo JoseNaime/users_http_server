@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Duane Kub",
+      "dob": "1981-7-28",
+      "email": "Duane_Kub99@yahoo.com",
+      "username": "Duane89",
+      "password": "FnTWLLnzNxy_yRT",
+      "phone": "(484) 888-2937",
+      "latitude": "-38.7007",
+      "longitude": "-36.8033",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mirfanqureshi/128.jpg"
+    },
+    {
+      "name": "Torey Labadie",
+      "dob": "1967-11-19",
+      "email": "Torey74@gmail.com",
+      "username": "Torey.Labadie16",
+      "password": "VJmkizvgyatSenD",
+      "phone": "152-902-0633 x1366",
+      "latitude": "6.2039",
+      "longitude": "81.6633",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ponchomendivil/128.jpg"
+    },
+    {
+      "name": "Assunta Walsh",
+      "dob": "1987-12-4",
+      "email": "Assunta.Walsh@yahoo.com",
+      "username": "Assunta_Walsh",
+      "password": "zLMGa9aZWTKNoH7",
+      "phone": "(042) 891-9518 x179",
+      "latitude": "-75.6967",
+      "longitude": "101.4105",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/byrnecore/128.jpg"
+    },
+    {
+      "name": "Curtis Metz",
+      "dob": "1983-3-12",
+      "email": "Curtis72@hotmail.com",
+      "username": "Curtis63",
+      "password": "WuWkanIlsfvS7g7",
+      "phone": "630-854-1364",
+      "latitude": "-72.9117",
+      "longitude": "110.4770",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/justme_timothyg/128.jpg"
+    },
+    {
+      "name": "Rosalyn Brekke",
+      "dob": "1989-3-18",
+      "email": "Rosalyn_Brekke71@gmail.com",
+      "username": "Rosalyn6",
+      "password": "ZphbGQTuDGPUYVz",
+      "phone": "504.685.6083 x71047",
+      "latitude": "-21.5909",
+      "longitude": "58.6967",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gipsy_raf/128.jpg"
+    }
+  ]
+}
